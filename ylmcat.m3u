@@ -5,13 +5,28 @@
 http://go.bkpcp.top/mg/cctv1
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://11.112114.xyz/logo/CCTV3.png" group-title="🎉春晚分组🎉",CCTV-3综艺
 http://go.bkpcp.top/mg/cctv3
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://11.112114.xyz/logo/CCTV4.png" group-title="🎉春晚分组🎉",CCTV-4 国际
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://11.112114.xyz/logo/CCTV4.png" group-title="🎉春晚分组🎉",CCTV-4国际
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv4
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://11.112114.xyz/logo/CCTV7.png" group-title="🎉春晚分组🎉",CCTV-7军事
 http://cctv.sohu.blog/cctv7.php
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://11.112114.xyz/logo/CCTV8.png" group-title="🎉春晚分组🎉",CCTV-8电视剧
 http://ah2.sohu.blog:8000/hls/9/index.m3u8
-
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://gitee.com/jdl243910/logo/raw/master/tv/北京卫视4K.png" group-title="🎉春晚分组🎉",北京卫视4K
+http://123.207.224.130:123/beijing/beijing.php?id=bjws4k
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gitee.com/jdl243910/logo/raw/master/tv/湖南卫视4K.png" group-title="🎉春晚分组🎉",湖南卫视4K
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="https://gitee.com/jdl243910/logo/raw/master/tv/浙江卫视4K.png" group-title="🎉春晚分组🎉",浙江卫视4K
+https://play-qukan.cztv.com/live/1758879019692345.m3u8
+#EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="https://gitee.com/jdl243910/logo/raw/master/tv/东方卫视4K.png" group-title="🎉春晚分组🎉",东方卫视4K
+http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+#EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://gitee.com/jdl243910/logo/raw/master/tv/江苏卫视4K.png" group-title="🎉春晚分组🎉",江苏卫视4K
+http://8.138.7.223/tv/jsws4k.php
+#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://gitee.com/jdl243910/logo/raw/master/tv/深圳卫视4K.png" group-title="🎉春晚分组🎉",深圳卫视4K
+http://nn.7x9d.cn/%E6%B7%B1%E5%9C%B3%E6%9C%80%E6%96%B0.php?id=szws4k
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV4K.png" group-title="🎉春晚分组🎉",CCTV 4K
+http://111.170.156.74:3344/%E5%A4%AE%E8%A7%86/cctv.php?id=cctv4k
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV4K.png" group-title="🎉春晚分组🎉",CCTV 4K
+http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
 
 #EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2201/057/821/202204010054_1626677671392_H32_1080.webp" group-title="🏵央视卫视-①🏵",CCTV1综合
 http://nas.z-home.top:1234/608807420
@@ -1367,8 +1382,6 @@ https://play-qukan.cztv.com/live/1758879019692345.m3u8
 http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 #EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://gitee.com/jdl243910/logo/raw/master/tv/江苏卫视4K.png" group-title="🏵4K/UHD频道🏵",江苏卫视4K
 http://8.138.7.223/tv/jsws4k.php
-#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://gitee.com/jdl243910/logo/raw/master/tv/深圳卫视4K.png" group-title="🏵4K/UHD频道🏵",深圳卫视4K
-https://cdn3.163189.xyz/163189/szws4k
 #EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://gitee.com/jdl243910/logo/raw/master/tv/深圳卫视4K.png" group-title="🏵4K/UHD频道🏵",深圳卫视4K
 http://nn.7x9d.cn/%E6%B7%B1%E5%9C%B3%E6%9C%80%E6%96%B0.php?id=szws4k
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视" http-user-agent="AptvPlayer-UA" tvg-logo="https://gitee.com/jdl243910/logo/raw/master/tv/北京卫视4K.png" group-title="🏵4K/UHD频道🏵",北京卫视4K
